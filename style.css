@@ -42,13 +42,9 @@ article div {
 }
 ul {
 list-style-position: inside;
-margin: 0;
-padding: 0;
 }
 ol {
 list-style-position: inside;
-margin: 0;
-padding: 0;
 }
 p {
   line-height: 1.5;
