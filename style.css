@@ -83,16 +83,5 @@ a:visited { color: #98AFC7;   }
 a:hover   { color: #f77f00; }
 a:active  { color: #FFC0CB;  }
 
-.text-center {
-  text-align: center;
-}
-
-.display-inline {
-  display: inline-block;
-}
-
-a {
-  text-align: left;
-}
 
 
