@@ -38,16 +38,13 @@ article {
 
 article div {
   text-align: center;
-  width: 100%;
+  width: 50%;
 }
 ul {
 list-style-position: inside;
 }
 ol {
 list-style-position: inside;
-}
-p {
-  line-height: 1.5;
 }
 
 /* The div container constrains the content width within the main container to 600px */
