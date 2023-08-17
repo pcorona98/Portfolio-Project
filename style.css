@@ -41,12 +41,12 @@ article div {
   width: 100%;
 }
 ul {
-list-style-type: none;
+list-style-position: inside;
 margin: 0;
 padding: 0;
 }
 ol {
-list-style-type: none;
+list-style-position: inside;
 margin: 0;
 padding: 0;
 }
