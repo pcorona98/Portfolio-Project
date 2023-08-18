@@ -37,7 +37,7 @@ article {
 }
 
 article div {
-  width: 50%;
+  width:50%;
 }
 ul {
 list-style-position: inside;
@@ -78,6 +78,18 @@ a:link    { color: #d62828;  }
 a:visited { color: #98AFC7;   }
 a:hover   { color: #f77f00; }
 a:active  { color: #FFC0CB;  }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.container {
+    text-align: center;
+}
+
 
 
 
